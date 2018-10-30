@@ -1,0 +1,11 @@
+programa soma inicio
+	inteiro a;
+	inteiro b;
+	inteiro c;
+	leia(a);
+	leia(b);
+	a = 10;
+	b = 2.3212;
+	c = a + b;
+	escreva(c);
+fim.
